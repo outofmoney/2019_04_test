@@ -1,0 +1,4 @@
+﻿  C.cpp
+d:\programming\c_programming\c\c\c.cpp(19): warning C4305: “初始化”: 从“double”到“float”截断
+  C.vcxproj -> D:\programming\c_programming\C\Debug\C.exe
+  C.vcxproj -> D:\programming\c_programming\C\Debug\C.pdb (Full PDB)
